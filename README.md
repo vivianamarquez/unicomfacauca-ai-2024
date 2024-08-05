@@ -28,8 +28,8 @@ Cada clase presentará un caso real para que aprendas habilidades prácticas y h
 | 11        | Octubre 15, 2024    | Modelos no supervisados                  |
 | 12        | Octubre 22, 2024    | Modelos de ensemble                      |
 | 13        | Octubre 29, 2024    | Visualización y comunicación de datos    |
-| 14        | Noviembre 5, 2024  | Introducción a redes neuronales           |
+| 14        | Noviembre 5, 2024   | Introducción a redes neuronales          |
 | 15        | Noviembre 12, 2024  | Estudios de caso                         |
 | 16        | Noviembre 19, 2024  | Estudios de caso                         |
-| 16        | Noviembre 26, 2024  | Estudios de caso                         |
+| 17        | Noviembre 26, 2024  | Q&A                                      |
 
