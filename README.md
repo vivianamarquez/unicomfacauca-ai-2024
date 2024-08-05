@@ -30,5 +30,5 @@ Cada clase presentará un caso real para que aprendas habilidades prácticas y h
 | 13        | Noviembre 5, 2024   | Visualización y comunicación de datos    |
 | 14        | Noviembre 12, 2024  | Introducción a redes neuronales          |
 | 15        | Noviembre 19, 2024  | Estudios de caso                         |
-| 16        | Noviembre 22, 2024  | Estudios de caso                         |
+| 16        | Noviembre 26, 2024  | Estudios de caso                         |
 
