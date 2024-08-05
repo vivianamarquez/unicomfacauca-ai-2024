@@ -22,13 +22,14 @@ Cada clase presentará un caso real para que aprendas habilidades prácticas y h
 | 5         | Septiembre 3, 2024  | Adquisición de datos                     |
 | 6         | Septiembre 10, 2024 | Exploración de datos                     |
 | 7         | Septiembre 17, 2024 | Tipos de modelos de Machine Learning     |
-| 8         | Octubre 1, 2024     | Feature Engineering                      |
-| 9         | Octubre 8, 2024     | Modelos Supervisados: Clasificación      |
-| 10        | Octubre 15, 2024    | Modelos Supervisados: Regresión          |
-| 11        | Octubre 22, 2024    | Modelos no supervisados                  |
-| 12        | Octubre 29, 2024    | Modelos de ensemble                      |
-| 13        | Noviembre 5, 2024   | Visualización y comunicación de datos    |
-| 14        | Noviembre 12, 2024  | Introducción a redes neuronales          |
-| 15        | Noviembre 19, 2024  | Estudios de caso                         |
+| 8         | Septiembre 24, 2024 | Feature Engineering                      |
+| 9         | Octubre 1, 2024     | Modelos Supervisados: Clasificación      |
+| 10        | Octubre 8, 2024     | Modelos Supervisados: Regresión          |
+| 11        | Octubre 15, 2024    | Modelos no supervisados                  |
+| 12        | Octubre 22, 2024    | Modelos de ensemble                      |
+| 13        | Octubre 29, 2024    | Visualización y comunicación de datos    |
+| 14        | Noviembre 5, 2024  | Introducción a redes neuronales           |
+| 15        | Noviembre 12, 2024  | Estudios de caso                         |
+| 16        | Noviembre 19, 2024  | Estudios de caso                         |
 | 16        | Noviembre 26, 2024  | Estudios de caso                         |
 
