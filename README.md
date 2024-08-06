@@ -13,23 +13,22 @@ Cada clase presentará un caso real para que aprendas habilidades prácticas y h
 
 ¡Nos vemos todos los martes a las 7 a.m.!
 
-| Clase no. | Fecha               | Tema                                     |
-|-----------|---------------------|------------------------------------------|
-| 1         | Agosto 6, 2024      | ¿Por qué aprender datos es importante?   |
-| 2         | Agosto 13, 2024     | Programación en Python Parte 1           |
-| 3         | Agosto 20, 2024     | Programación en Python Parte 2           |
-| 4         | Agosto 27, 2024     | Pasos en un proyecto de ciencia de datos |
-| 5         | Septiembre 3, 2024  | Adquisición de datos                     |
-| 6         | Septiembre 10, 2024 | Exploración de datos                     |
-| 7         | Septiembre 17, 2024 | Tipos de modelos de Machine Learning     |
-| 8         | Septiembre 24, 2024 | Feature Engineering                      |
-| 9         | Octubre 1, 2024     | Modelos Supervisados: Regresión          |
-| 10        | Octubre 8, 2024     | Modelos Supervisados: Clasificación      |
-| 11        | Octubre 15, 2024    | Modelos no supervisados                  |
-| 12        | Octubre 22, 2024    | Modelos de ensemble                      |
-| 13        | Octubre 29, 2024    | Visualización y comunicación de datos    |
-| 14        | Noviembre 5, 2024   | Introducción a redes neuronales          |
-| 15        | Noviembre 12, 2024  | Estudios de caso                         |
-| 16        | Noviembre 19, 2024  | Estudios de caso                         |
-| 17        | Noviembre 26, 2024  | Q&A                                      |
-
+| Clase no. | Fecha               | Tema                                     | Diapositivas | Código | Video |
+|-----------|---------------------|------------------------------------------|--------------|--------|-------|
+|     1     |    Agosto 6, 2024   |  ¿Por qué aprender datos es importante?  | [Enlace](https://nbviewer.org/github/vivianamarquez/unicomfacauca-ai-2024/blob/main/clases/01.%20%C2%BFPor%20qu%C3%A9%20aprender%20datos%20es%20tan%20importante%3F%20/01.%20%C2%BFPor%20qu%C3%A9%20aprender%20datos%20es%20tan%20importante%3F.pdf)   | N/A    |       |
+| 2         | Agosto 13, 2024     | Programación en Python Parte 1           |              |        |       |
+| 3         | Agosto 20, 2024     | Programación en Python Parte 2           |              |        |       |
+| 4         | Agosto 27, 2024     | Pasos en un proyecto de ciencia de datos |              |        |       |
+| 5         | Septiembre 3, 2024  | Adquisición de datos                     |              |        |       |
+| 6         | Septiembre 10, 2024 | Exploración de datos                     |              |        |       |
+| 7         | Septiembre 17, 2024 | Tipos de modelos de Machine Learning     |              |        |       |
+| 8         | Septiembre 24, 2024 | Feature Engineering                      |              |        |       |
+| 9         | Octubre 1, 2024     | Modelos Supervisados: Regresión          |              |        |       |
+| 10        | Octubre 8, 2024     | Modelos Supervisados: Clasificación      |              |        |       |
+| 11        | Octubre 15, 2024    | Modelos no supervisados                  |              |        |       |
+| 12        | Octubre 22, 2024    | Modelos de ensemble                      |              |        |       |
+| 13        | Octubre 29, 2024    | Visualización y comunicación de datos    |              |        |       |
+| 14        | Noviembre 5, 2024   | Introducción a redes neuronales          |              |        |       |
+| 15        | Noviembre 12, 2024  | Estudios de caso                         |              |        |       |
+| 16        | Noviembre 19, 2024  | Estudios de caso                         |              |        |       |
+| 17        | Noviembre 26, 2024  | Q&A                                      |              |        |       |
