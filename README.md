@@ -15,7 +15,7 @@ Cada clase presentará un caso real para que aprendas habilidades prácticas y h
 
 | Clase no. | Fecha               | Tema                                     | Diapositivas | Código | Video |
 |-----------|---------------------|------------------------------------------|--------------|--------|-------|
-|     1     |    Agosto 6, 2024   |  ¿Por qué aprender datos es importante?  | [Enlace](https://nbviewer.org/github/vivianamarquez/unicomfacauca-ai-2024/blob/main/clases/01.%20%C2%BFPor%20qu%C3%A9%20aprender%20datos%20es%20tan%20importante%3F%20/01.%20%C2%BFPor%20qu%C3%A9%20aprender%20datos%20es%20tan%20importante%3F.pdf)   | N/A    |       |
+|     1     |    Agosto 6, 2024   |  ¿Por qué aprender datos es importante?  | [Enlace](https://nbviewer.org/github/vivianamarquez/unicomfacauca-ai-2024/blob/main/clases/01.%20%C2%BFPor%20qu%C3%A9%20aprender%20datos%20es%20tan%20importante%3F%20/01.%20%C2%BFPor%20qu%C3%A9%20aprender%20datos%20es%20tan%20importante%3F.pdf)   | N/A    |   N/A    |
 | 2         | Agosto 13, 2024     | Programación en Python Parte 1           |  [Enlace](https://nbviewer.org/github/vivianamarquez/unicomfacauca-ai-2024/blob/main/clases/02.%20Programaci%C3%B3n%20en%20Python%20Parte%201/02.%20Programaci%C3%B3n%20en%20Python%20Parte%201.pptx.pdf)            |   [Enlace](https://colab.research.google.com/drive/14i3bmnxjpdEHmjWWNo_iSKF336Dv3XtC?usp=sharing)     |       |
 | 3         | Agosto 20, 2024     | Programación en Python Parte 2           |              |        |       |
 | 4         | Agosto 27, 2024     | Pasos en un proyecto de ciencia de datos |              |        |       |
