@@ -9,9 +9,9 @@ Cada clase presentará un caso real para que aprendas habilidades prácticas y h
 
 ***
 
-### Email temporalmente 
+### Email 
 
-Mientras obtengo acceso a las diferentes plataformas de la universidad, pueden hacer sus entregas al email vivianamarquez305 `arroa` gmail `punto` com
+vroberta `arroba` unicomfacauca `punto` edu `punto` co
 
 ### Horario
 
