@@ -13,6 +13,8 @@ Cada clase presentará un caso real para que aprendas habilidades prácticas y h
 
 vroberta `arroba` unicomfacauca `punto` edu `punto` co
 
+***
+
 ### Horario
 
 ¡Nos vemos todos los martes a las 7 a.m.!
