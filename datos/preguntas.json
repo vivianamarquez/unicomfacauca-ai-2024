@@ -1,0 +1,35 @@
+[
+    {
+        "Categoria": "Deporte",
+        "Pregunta": "¿Quién es el máximo goleador en la historia de la liga colombiana?",
+        "Opciones": [
+            "Radamel Falcao",
+            "Dayro Moreno",
+            "Sergio Galván Rey",
+            "Teófilo Gutiérrez"
+        ],
+        "Respuesta": "Dayro Moreno"
+    },
+    {
+        "Categoria": "Matemáticas",
+        "Pregunta": "5 + 7 = ?",
+        "Opciones": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "Respuesta": "12"
+    },
+    {
+        "Categoria": "Matemáticas",
+        "Pregunta": "12 - 8 = ?",
+        "Opciones": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "Respuesta": "4"
+    }
+]
