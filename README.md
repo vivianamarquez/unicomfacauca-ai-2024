@@ -35,5 +35,5 @@ vroberta `arroba` unicomfacauca `punto` edu `punto` co
 | 12 | Octubre 22, 2024    |     Modelos de ensemble   |  [Enlace](https://nbviewer.org/github/vivianamarquez/unicomfacauca-ai-2024/blob/main/clases/12.%20Modelos%20de%20Ensamble/12.%20Modelos%20de%20Ensamble.pptx.pdf)     |   [Enlace Regresión](https://colab.research.google.com/drive/1pG-m3g_nP5-1pQeq62-y1c3d0mEdH4o1?usp=sharing) [Enlace Supervisión](https://colab.research.google.com/drive/1IyAFXMux6VYeGuLkoXvvOKAWaermFuLc?usp=sharing )   |   |   |   Diapositva 29             |
 | 13 | Octubre 29, 2024    |    Comunicación de negocios y desarrollo profesional       |    |              |   |   |                |
 | 14 | Noviembre 5, 2024   |  Introducción a redes neuronales   |        |         |   |   |     |
-| 15 | Noviembre 12, 2024  |   Estudios de caso    | N/A | N/A |   |   |                |
-| 16 | Noviembre 19, 2024  |     Estudios de caso   | N/A  | N/A |   |   |                |
+| 15 | Noviembre 12, 2024  |   Estudios de caso    | N/A | N/A |   |   |   N/A   |
+| 16 | Noviembre 19, 2024  |     Estudios de caso   | N/A  | N/A |   |   |  N/A   |
