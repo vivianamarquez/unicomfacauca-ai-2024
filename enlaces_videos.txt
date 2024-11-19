@@ -1,0 +1,59 @@
+Fecha: Agosto 13, 2024
+Tema: Introducción a Python
+YouTube link: https://www.youtube.com/watch?v=bwMGLvUQpO8
+
+Fecha: Agosto 20, 2024
+Tema: Python: Estructura de datos y condicionales
+YouTube link: https://www.youtube.com/watch?v=P_etn0dNbUE
+
+Fecha: Agosto 27, 2024
+Tema: Python: Bucles, funciones y librerías
+YouTube link: https://www.youtube.com/watch?v=kdEvQtegyuc
+
+Fecha: Septiembre 3, 2024
+Tema: Pasos en un proyecto de ciencia de datos
+YouTube link: https://youtu.be/I0U3BGZ4Mes
+
+Fecha: Septiembre 10, 2024
+Tema: Adquisición de datos
+YouTube link: https://www.youtube.com/watch?v=cqM-W9a6lXs
+
+Fecha: Septiembre 17, 2024
+Tema: Exploración de datos
+YouTube link: https://www.youtube.com/watch?v=qYWsSSAsQOo
+
+Fecha: Septiembre 24, 2024
+Tema: Ingeniería de Características
+YouTube link: https://www.youtube.com/watch?v=9uy6AinZaSg
+
+Fecha: Octubre 1, 2024
+Tema: Modelos Supervisados: Regresión
+YouTube link: https://www.youtube.com/watch?v=Yv9qAX2svRE
+
+Fecha: Octubre 8, 2024
+Tema: Modelos Supervisados: Clasificación
+YouTube link: https://www.youtube.com/watch?v=1gZiBvbZWjw
+
+Fecha: Octubre 15, 2024
+Tema: Modelos no supervisados
+YouTube link: https://www.youtube.com/watch?v=WdQ6qVxSmEM
+
+Fecha: Octubre 22, 2024
+Tema: Modelos de ensemble
+YouTube link: https://www.youtube.com/watch?v=4K7t4qyju1w
+
+Fecha: Octubre 29, 2024
+Tema: Comunicación de negocios y desarrollo profesional
+YouTube link: https://www.youtube.com/watch?v=YO-ssApAG7g
+
+Fecha: Noviembre 5, 2024
+Tema: Introducción a redes neuronales
+YouTube link: https://www.youtube.com/watch?v=83Eevp36KPQ
+
+Fecha: Noviembre 12, 2024
+Tema: Estudios de caso - Parte 1
+YouTube link: https://www.youtube.com/watch?v=UOFIQyaNd4c
+
+Fecha: Noviembre 19, 2024
+Tema: Estudios de caso - Parte 2
+YouTube link: https://www.youtube.com/watch?v=1Q3DqP6j-Rk
