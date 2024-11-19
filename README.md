@@ -13,6 +13,10 @@ Cada clase presentará un caso real para que aprendas habilidades prácticas y h
 
 vroberta `arroba` unicomfacauca `punto` edu `punto` co
 
+### LinkedIn 
+
+https://www.linkedin.com/in/vivianamarquez/
+
 ***
 
 ### Horario
